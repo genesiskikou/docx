@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dtwa allemand\n"
+"POT-Creation-Date: 2023-01-19 15:39+0100\n"
+"PO-Revision-Date: 2023-03-24 15:24+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: index.php\n"
+
+#: index.php:25
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Sie haben nicht genügend Rechte, um auf diese Seite zuzugreifen."
+
+#: index.php:116
+msgid "DOCX imported successfully!"
+msgstr "DOCX erfolgreich importiert!"
+
+#: index.php:120
+msgid "DOCX to Wordpress Article"
+msgstr "DOCX zu Wordpress Artikel"
+
+#: index.php:127
+msgid "DOCX Files"
+msgstr "DOCX Dateien"
+
+#: index.php:130 index.php:166
+msgid "(Drag and drop or click on select)"
+msgstr "(Ziehen und ablegen oder auf auswählen klicken)"
+
+#: index.php:139
+msgid "Featured Image"
+msgstr "Gekennzeichnetes Bild"
+
+#: index.php:146
+msgid ""
+"Select an image if you want to add a default front <br> page image to all "
+"your documents."
+msgstr ""
+"Wählen Sie ein Bild aus, wenn Sie allen Ihren Dokumenten <br> ein "
+"Standard-Titelbild hinzufügen möchten."
+
+#: index.php:162
+msgid "(Optionnal)"
+msgstr "(fakultativ)"
+
+#: index.php:173
+msgid "Account"
+msgstr "Konto"
+
+#: index.php:188
+msgid "Category"
+msgstr "Kategorie"
+
+#: index.php:203
+msgid "Select your files"
+msgstr "Dateien auswählen"
+
+#: index.php:219
+msgid "Select your picture"
+msgstr "Wählen Sie Ihr Bild"
+
+#: index.php:223
+msgid "(Cltr + click to select multiple categories)"
+msgstr "(Cltr + Klick zur Auswahl mehrerer Kategorien)"
+
+#: index.php:229
+msgid "Status"
+msgstr "Status"
+
+#: index.php:233
+msgid "Draft"
+msgstr "Entwurf"
+
+#: index.php:234
+msgid "Pending Review"
+msgstr "Anstehende Überprüfung"
+
+#: index.php:235
+msgid "Publish"
+msgstr "Veröffentlichen"
+
+#: index.php:241
+msgid "Import"
+msgstr "Importieren"

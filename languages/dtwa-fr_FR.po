@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dtwa\n"
+"POT-Creation-Date: 2023-03-23 16:25+0100\n"
+"PO-Revision-Date: 2023-03-24 15:26+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _;__\n"
+"X-Poedit-SearchPath-0: index.php\n"
+
+#: index.php:60
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+"Vous n'avez pas les autorisations suffisantes pour accéder à cette page."
+
+#: index.php:151
+msgid "DOCX imported successfully!"
+msgstr "DOCX importé avec succès !"
+
+#: index.php:155
+msgid "DOCX to Wordpress Article"
+msgstr "DOCX en Article Wordpress"
+
+#: index.php:165
+msgid "DOCX Files"
+msgstr "Fichiers DOCX"
+
+#: index.php:203
+msgid "Select your files"
+msgstr "Sélectionnez vos fichiers"
+
+#: index.php:219
+msgid "Select your picture"
+msgstr "Sélectionnez votre image"
+
+#: index.php:168 index.php:204
+msgid "(Drag and drop or click on select)"
+msgstr "(Glisser-déposer ou cliquer sur sélectionner)"
+
+#: index.php:177
+msgid "Featured Image"
+msgstr "Image à la une"
+
+#: index.php:184
+msgid ""
+"Select an image if you want to add a default front <br> page image to all "
+"your documents."
+msgstr ""
+"Sélectionner une image si vous voulez ajouter une image <br> à la une par "
+"défaut a tout vos documents."
+
+#: index.php:200
+msgid "(Optionnal)"
+msgstr "(Optionnel)"
+
+#: index.php:211
+msgid "Account"
+msgstr "Auteur"
+
+#: index.php:226
+msgid "Category"
+msgstr "Catégorie"
+
+#: index.php:261
+msgid "(Cltr + click to select multiple categories)"
+msgstr "(Cltr + clic pour sélectionner plusieurs catégories)"
+
+#: index.php:267
+msgid "Status"
+msgstr "Statut"
+
+#: index.php:271
+msgid "Draft"
+msgstr "Brouillon"
+
+#: index.php:272
+msgid "Pending Review"
+msgstr "En attente"
+
+#: index.php:273
+msgid "Publish"
+msgstr "Publier"
+
+#: index.php:279
+msgid "Import"
+msgstr "Importer"
